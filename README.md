@@ -1,4 +1,4 @@
-# Lung_Segmentation_Demo-master
+# Lung Segmentation Demo-master
 
 The lung segmentation demo based on U-net
 
